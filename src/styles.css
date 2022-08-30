@@ -1,0 +1,9 @@
+/* You can add global styles to this file, and also import other style files */
+button{
+   
+    margin-top: 4px;
+}
+app-recipe-detail :first-child{
+    margin-top:20px;
+
+}
